@@ -8,7 +8,7 @@ var removeCoveredIntervals = function(intervals) {
     
     while(1){
         let len = arr.length;
-        arr = arr.sort();
+        arr = arr.sort((a, b)=>a-b);
         
         let num = 0;
         let end = true;
