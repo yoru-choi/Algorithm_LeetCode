@@ -6,5 +6,4 @@ function reverseWords(s: string): string {
     const getWord:string = strTrimmed.substring(strLastIndex)
     const remainSentence:string = strTrimmed.substring(0, strLastIndex)
     return (getWord+' ' + (remainSentence ? reverseWords(remainSentence) : '' )).trim()
- 
  };
