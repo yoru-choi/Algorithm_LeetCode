@@ -1,25 +1,26 @@
-function maxColinear(focus, points){
-    const slopes = points.map((x)=>(x[0]-focus[0])/(x[1]-focus[1]))
-    let slope_counts = []
-    slopes.forEach(function(i) {
-    if(slope_counts[i] === undefined) {
-        slope_counts[i] = 0
-    }
-    slope_counts[i] += 1
-    })
-    slope_counts = Object.values(slope_counts);
-    let answer = Math.max(...slope_counts) + 1;
-    return answer
-    
-    
-}
+const getMaxPointInLine = (points: number[][]) => {
+  const map = new Map();
+  let res = [];
+  while (points.length > 1) {
+    const one: number[] = points.pop() || [];
+    points.forEach((point: number[]) => {
+      const slope = (point[0] - one[0]) / (point[1] - one[1]);
 
-function maxPoints(points) {
-    if (points.length > 2){
-        let focus = points.pop();
-        return Math.max(maxColinear(focus,points),maxPoints(points))
-    }else{
-        return points.length;
-    }
-    
+      console.log(`${slope}`);
+      if (map.has(slope)) {
+        // console.log(map.get(slope));
+        map.set(slope, map.get(slope) + 1);
+      } else {
+        map.set(slope, 1);
+      }
+    });
+    res.push(...map.values());
+    map.clear();
+  }
+  return Math.max(...Object.values(res))+1;
+};
+
+const maxPoints = (points: number[][]) => {
+  if (points.length < 2) return points.length;
+  return getMaxPointInLine(points) ;
 };
