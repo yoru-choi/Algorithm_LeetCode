@@ -7,6 +7,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/yoru-choi/Algorithm_LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/yoru-choi/Algorithm_LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/yoru-choi/Algorithm_LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
@@ -25,6 +26,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/yoru-choi/Algorithm_LeetCode/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/yoru-choi/Algorithm_LeetCode/tree/master/0338-counting-bits) |
 ## Array
 |  |
@@ -42,4 +44,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/yoru-choi/Algorithm_LeetCode/tree/master/0268-missing-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/yoru-choi/Algorithm_LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
