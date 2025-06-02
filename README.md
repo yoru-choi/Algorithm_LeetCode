@@ -7,6 +7,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/yoru-choi/Algorithm_LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yoru-choi/Algorithm_LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/yoru-choi/Algorithm_LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/yoru-choi/Algorithm_LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -26,6 +27,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/yoru-choi/Algorithm_LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yoru-choi/Algorithm_LeetCode/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/yoru-choi/Algorithm_LeetCode/tree/master/0338-counting-bits) |
 ## Array
@@ -48,4 +50,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/yoru-choi/Algorithm_LeetCode/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/yoru-choi/Algorithm_LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
