@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/yoru-choi/Algorithm_LeetCode/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/yoru-choi/Algorithm_LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Sorting
 |  |
 | ------- |
@@ -59,4 +60,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/yoru-choi/Algorithm_LeetCode/tree/master/0062-unique-paths) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/yoru-choi/Algorithm_LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
