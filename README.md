@@ -20,6 +20,7 @@
 | [0268-missing-number](https://github.com/yoru-choi/Algorithm_LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/yoru-choi/Algorithm_LeetCode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/yoru-choi/Algorithm_LeetCode/tree/master/0371-sum-of-two-integers) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/yoru-choi/Algorithm_LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Divide and Conquer
 |  |
 | ------- |
